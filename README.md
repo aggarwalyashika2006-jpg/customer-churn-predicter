@@ -13,7 +13,7 @@ Built with:
 
 # 🚀 Live Demo
 
-🔗 Streamlit App:
+🔗 Streamlit App:https://customer-churn-predicter-kapph67ypyjthkczqw6tgx6.streamlit.app/
 
 
 ---
